@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "omer omer",
+      "salary": "6000",
+      "job": "desinger",
+      "country": "egypt",
+      "image": "https://i.pinimg.com/474x/76/7c/dc/767cdcf5baa9dcadfc3e574794a74051.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Mohamed ali",
+      "salary": "10000",
+      "job": "frontend",
+      "country": "مصر",
+      "image": "https://i.pinimg.com/474x/9f/ba/fb/9fbafbd9ffd07f935fecdf37ccf8850c.jpg"
+    },
+    {
+      "id": "7681",
+      "name": "Mohamed Reda",
+      "salary": "10000",
+      "job": "frontend",
+      "country": "مصر",
+      "image": "https://i.pinimg.com/736x/ad/9b/76/ad9b7620b84b8e5aca9c8779a89d5bc9.jpg"
+    },
+    {
+      "id": "450a",
+      "name": "Ahmed ali",
+      "salary": "15000",
+      "job": "Backend",
+      "country": "Alexandria",
+      "image": "blob:http://localhost:5173/6d9dd8ae-0a36-4ef6-8781-3be58e596517"
+    }
+  ]
+}
